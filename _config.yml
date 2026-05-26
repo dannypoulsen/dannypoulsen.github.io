@@ -1,0 +1,6 @@
+include: [".well-known"]
+
+# Force GitHub Pages to treat .pem files as plain text
+custom_mime_types:
+  - extension: .pem
+    mime_type: text/plain
