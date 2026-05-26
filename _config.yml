@@ -1,4 +1,4 @@
-include: [".well-known"]
+include: [".well-known/appspecific"]
 
 # Force GitHub Pages to treat .pem files as plain text
 custom_mime_types:
